@@ -37,20 +37,20 @@
 		A78C8E87151FCDA700976F9D /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		A78C8E89151FCDA700976F9D /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		A78C8E8B151FCDA700976F9D /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		A78C8E8F151FCDA700976F9D /* FirstApp-Info.plist */ = {isa = PBXFileReference; path = "FirstApp-Info.plist"; sourceTree = "<group>"; };
+		A78C8E8F151FCDA700976F9D /* FirstApp-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "FirstApp-Info.plist"; sourceTree = "<group>"; };
 		A78C8E91151FCDA700976F9D /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		A78C8E93151FCDA700976F9D /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		A78C8E95151FCDA700976F9D /* FirstApp-Prefix.pch */ = {isa = PBXFileReference; path = "FirstApp-Prefix.pch"; sourceTree = "<group>"; };
-		A78C8E96151FCDA700976F9D /* AppDelegate.h */ = {isa = PBXFileReference; path = AppDelegate.h; sourceTree = "<group>"; };
+		A78C8E95151FCDA700976F9D /* FirstApp-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "FirstApp-Prefix.pch"; sourceTree = "<group>"; };
+		A78C8E96151FCDA700976F9D /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		A78C8E97151FCDA700976F9D /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		A78C8E9A151FCDA700976F9D /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
-		A78C8E9C151FCDA700976F9D /* ViewController.h */ = {isa = PBXFileReference; path = ViewController.h; sourceTree = "<group>"; };
+		A78C8E9C151FCDA700976F9D /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		A78C8E9D151FCDA700976F9D /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		A78C8EA4151FCDA700976F9D /* FirstAppTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FirstAppTests.octest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A78C8EA5151FCDA700976F9D /* SenTestingKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SenTestingKit.framework; path = Library/Frameworks/SenTestingKit.framework; sourceTree = DEVELOPER_DIR; };
-		A78C8EAD151FCDA800976F9D /* FirstAppTests-Info.plist */ = {isa = PBXFileReference; path = "FirstAppTests-Info.plist"; sourceTree = "<group>"; };
+		A78C8EAD151FCDA800976F9D /* FirstAppTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "FirstAppTests-Info.plist"; sourceTree = "<group>"; };
 		A78C8EAF151FCDA800976F9D /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		A78C8EB1151FCDA800976F9D /* FirstAppTests.h */ = {isa = PBXFileReference; path = FirstAppTests.h; sourceTree = "<group>"; };
+		A78C8EB1151FCDA800976F9D /* FirstAppTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FirstAppTests.h; sourceTree = "<group>"; };
 		A78C8EB2151FCDA800976F9D /* FirstAppTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FirstAppTests.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
